@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=sY1mPVaUYds&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=43
+
+
+Me learning react / trying to figure out how I want to organize. 
+
+desc: higher order components, can wrap a component with a function to add more functionality 
+youtube: https://www.youtube.com/watch?v=hKvV0euP3mY
+doc: https://www.youtube.com/redirect?q=https%3A%2F%2Freactjs.org%2Fdocs%2Fcdn-links.html&event=video_description&v=hKvV0euP3mY&redir_token=fwsQLRGijNwVfUsaM8ltEZ377558MTU4NjYyMzUxNEAxNTg2NTM3MTE0
+
+(snippets rsc vs rsm)
+stateless component vs memorized stateless component... ?for optimization? 
+
+complete react tutorial with redux: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+
+Redux in React
+https://www.youtube.com/watch?v=f87wPQMgF4c&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=39
+
+

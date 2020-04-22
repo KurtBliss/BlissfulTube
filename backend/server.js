@@ -1,3 +1,5 @@
+// https://www.youtube.com/watch?v=7CqJlxBYj-M&t=1423s
+// (sudo) nodemon server.js
 const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
@@ -17,6 +19,11 @@ connection.once("open", () => {
   console.log("MongoDB connection established successfully");
 });
 
+// Handle Routes
+const userRouter = require("./routes/user");
+app.use("/users", userRouter);
+
+// Listen
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
